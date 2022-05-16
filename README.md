@@ -1,10 +1,9 @@
-# blockchain-mid
-视频链接地址：
+# blockchain
+video link：
 https://www.bilibili.com/video/av79152029/
-包含两个视频：
-视频一：添加账单、查看账单、添加用户，视频一中的主页由于浏览器不兼容会有显示问题，不是代码问题，在linux中使用谷歌浏览器即可显示正常
-视频二：转让账单、向银行融资、销毁账单
 
-加分项：
-1.友好高效的用户界面
-2.账单信息查询功能和添加用户功能.
+Extracted key data of blockchain and supply chain and put them on the chain  
+Realized the interaction between the Node.js and the chain end through web3 and finished UI design using HTML, CSS and JS
+Implemented the function of tracing and circulation of accounts receivable and innovatively developed the function of bank financing on the supply chain
+Completed database configuration and contract deployment on Webase to test the platform operation
+
